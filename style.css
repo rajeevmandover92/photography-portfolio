@@ -6,7 +6,7 @@
 }
 .main_box{
   height: 100vh;
-  background: url("photo.jpg");
+  background: url("‪C:\Users\RAJEEV\Downloads\photo.jpg");
   background-size: cover;
 }
 
@@ -118,3 +118,4 @@ a{
 #check:checked ~ .btn_one{
   opacity: 0;
 }
+
